@@ -1,0 +1,2 @@
+1.spring5的仓库下载需要权限，构建会一直报authorized错误，所以地址需要换成镜像
+详情： https://help.aliyun.com/document_detail/153736.html

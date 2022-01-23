@@ -238,7 +238,7 @@ public abstract class AbstractApplicationContext extends DefaultResourceLoader
 	 * Create a new AbstractApplicationContext with no parent.
 	 */
 	public AbstractApplicationContext() {
-		// 创建资源模式处理器
+		// 创建资源模式处理器 （比如配置文件、xml文件）
 		this.resourcePatternResolver = getResourcePatternResolver();
 	}
 
